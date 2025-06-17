@@ -1,7 +1,7 @@
 /* shortcode-related-top.css */
 
 .related-top-vertical {
-  background-color: #f7f7f7;
+  background-color: #e3e4bb; /* світліший */
   border-radius: 16px;
   overflow: hidden;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
